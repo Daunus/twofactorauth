@@ -329,6 +329,12 @@ websites:
       software: Yes
       doc: https://gemini.com/blog/better-two-factor-authentication/
 
+    - name: HardBlock
+      url: https://www.hardblock.com.au/
+      img: hardblock.png
+      tfa: Yes
+      software: Yes
+
     - name: HitBTC
       url: https://www.hitbtc.com/
       img: hitbtc.png
